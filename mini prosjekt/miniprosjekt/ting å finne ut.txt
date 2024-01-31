@@ -1,0 +1,38 @@
+Ting å finne ut av mini prosjekt:
+
+Steg 1: Oversikt over hva slags data vi sitter med
+
+Infoen vi sitter på så langt:
+Hva som blir solgt
+Hvor det blir solgt (butikk)
+Hvor mye det blir solgt for (Prisen kan endre seg)
+Når det ble solgt.
+
+Hva vi mangler:
+Profitt og utgifter
+
+Ting å finne ut av mini prosjekt:
+
+Steg 1: Oversikt over hva slags data vi sitter med
+
+Infoen vi sitter på så langt:
+Hva som blir solgt
+Hvor det blir solgt
+Hvor mye det blir solgt for
+Når det ble solgt
+
+Hva vi mangler:
+Profitt
+Utgifter
+
+Scope: Prediker salg på tidligere måned
+
+Product Performance: Analyzing what products are being sold, where, and at what price can help identify top-selling items and optimize inventory.
+Sales Channel Effectiveness: Understanding where products are sold can reveal the most successful sales channels, allowing the store to focus efforts on those platforms or locations.
+Pricing Strategy: Knowing how much products are sold for provides insight into the store's pricing strategy. Adjustments can be made to maximize profits or attract more customers.
+Sales Trends: Examining when products are sold helps identify patterns and trends. This information can be used to plan promotions or adjust staffing levels during peak selling times.
+Operational Efficiency: By correlating sales data with expenses, the store can assess its overall operational efficiency and identify opportunities for improvement.
+Market Timing: Analyzing when products are sold can provide insights into market demand and seasonality, helping the store align its strategies with market trends.
+
+
+

@@ -1,0 +1,37 @@
+R = {Course_no, Sec_no, Offering_dept, Credit_hours, Course_level, Instructor_ssn, Semester, Year, Days_hours, Room_no, No_of_students}	
+
+{Course_no} → {Offering_dept, Credit_hours, Course_level}
+
+{Course_no, Sec_no, Semester, Year} → {Days_hours, Room_no, No_of_students, Instructor_ssn}
+
+{Room_no, Days_hours, Semester, Year} → {Instructor_ssn, Course_no, Sec_no} 
+
+Step 1: Identify Superkeys
+Course_No, Sec_No, Semester, Year, Room_no, Days_Hours
+
+Try to determine which sets of attributes form candidate keys of R.
+
+Candiate Key:
+Course_No, Sec_No, Semester, Year
+Semester, Year, Room_no, Days_Hours
+
+Normalize
+Is a proper database table
+- Has no repeating groups: Car1, Car2, Car3...
+- Columns contain atomic values
+- May contain partial dependencies
+
+Course_No: {Offering_dept, Credit_Hours_, Course_level}
+
+Relasjonen er i 1NF, for brudd på 2NF 
+
+2NF 
+R1 = {Course_no, Sec_no, Credit_hours, Instructor_ssn, Semester, Year, Days_hours, Room_no, No_of_students}
+R2 = {Offering_dept, Course_Hours, Course_level, PK:Course_No}
+
+
+3NF
+R3 = {PK:Offering_dept, FK:Course_No}
+R4 = {PK:Credit_Hours, FK:Course_No}
+R5 = {PK:Course_level, FK:Course_No}
+

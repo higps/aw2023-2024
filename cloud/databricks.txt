@@ -1,0 +1,3 @@
+Databricks is a unified, open analytics platform for building, deploying, sharing, and maintaining enterprise-grade data, analytics, and AI solutions at scale. The Databricks Data Intelligence Platform integrates with cloud storage and security in your cloud account, and manages and deploys cloud infrastructure on your behalf.
+
+Use cases on Databricks are as varied as the data processed on the platform and the many personas of employees that work with data as a core part of their job. The following use cases highlight how users throughout your organization can leverage Databricks to accomplish tasks essential to processing, storing, and analyzing the data that drives critical business functions and decisions.

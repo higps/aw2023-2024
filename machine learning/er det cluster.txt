@@ -1,0 +1,16 @@
+Predict house prices, train on historical transactions
+Regression, predicting based on many values and attributes
+
+• Customer segmentation based on historical purchases
+Clustering
+
+• Image recognition, based on human labeled data
+Classification, Regression
+
+Churn prediction, which customers will stop their
+subscription (based on historical events)
+Classification
+
+Support messages importance, based human labeled
+historic data
+Classification

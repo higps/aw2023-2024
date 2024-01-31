@@ -1,0 +1,34 @@
+Ting å finne ut av mini prosjekt:
+
+Steg 1: Oversikt over hva slags data vi sitter med
+
+Infoen vi sitter på så langt:
+Hva som blir solgt
+Hvor det blir solgt
+Hvor mye det blir solgt for
+Når det ble solgt
+
+Hva vi mangler:
+Profitt
+Utgifter
+
+
+Product Performance: Analyzing what products are being sold, where, and at what price can help identify top-selling items and optimize inventory.
+
+Sales Channel Effectiveness: Understanding where products are sold can reveal the most successful sales channels, allowing the store to focus efforts on those platforms or locations.
+
+Pricing Strategy: Knowing how much products are sold for provides insight into the store's pricing strategy. Adjustments can be made to maximize profits or attract more customers.
+
+Sales Trends: Examining when products are sold helps identify patterns and trends. This information can be used to plan promotions or adjust staffing levels during peak selling times.
+
+Profit Margins: By calculating profit (revenue - expenses), the store can assess the profitability of its operations and make informed decisions about cost-cutting or pricing adjustments.
+
+Expense Analysis: Understanding expenses is crucial for managing the financial health of the business. It helps identify areas where costs can be reduced or optimized.
+
+Customer Behavior: While not explicitly mentioned, sales data can indirectly provide insights into customer behavior. For example, popular products may indicate customer preferences.
+
+Operational Efficiency: By correlating sales data with expenses, the store can assess its overall operational efficiency and identify opportunities for improvement.
+
+Market Timing: Analyzing when products are sold can provide insights into market demand and seasonality, helping the store align its strategies with market trends.
+
+Customer Segmentation: If additional data on customers is available, such as demographics or buying patterns, the store can segment its customer base for targeted marketing and service improvements.

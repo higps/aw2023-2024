@@ -1,0 +1,422 @@
+Abbriviations
+
+BOSS = Biological Obliteration Super Soldier
+
+
+// - Regular paints -
+//set item tint RGB
+// A Color Similar to Slate					3100495
+// A Deep Commitment to Purple					8208497
+// A Distinctive Lack of Hue					1315860
+// A Mann's Mint								12377523
+// After Eight									2960676
+// Aged Moustache Grey							8289918
+// An Extraordinary Abundance of Tinge			15132390
+// Australium Gold								15185211	
+// Color No. 216-190-216						14204632
+// Dark Salmon Injustice						15308410
+// Drably Olive								8421376
+// Indubitably Green							7511618
+// Mann Co. Orange								13595446
+// Muskelmannbraun								10843461
+// Noble Hatter's Violet						5322826
+// Peculiarly Drab Tincture					12955537
+// Pink as Hell								16738740
+// Radigan Conagher Brown						6901050
+// The Bitter Taste of Defeat and Lime			3329330
+// The Color of a Gentlemann's Business Pants	15787660
+// Ye Olde Rustic Colour						8154199
+// Zepheniah's Greed							4345659
+
+// - Team colors -
+
+// An Air of Debonair:
+// set item tint RGB : 6637376
+// set item tint RGB 2 : 2636109
+
+// Balaclavas Are Forever
+// set item tint RGB : 3874595
+// set item tint RGB 2 : 1581885
+
+// Cream Spirit
+// set item tint RGB : 12807213
+// set item tint RGB 2 : 12091445
+
+// Operator's Overalls
+// set item tint RGB : 4732984
+// set item tint RGB 2 : 3686984
+
+// Team Spirit
+// set item tint RGB : 12073019
+// set item tint RGB 2 : 5801378
+
+// The Value of Teamwork
+// set item tint RGB : 8400928
+// set item tint RGB 2 : 2452877
+
+// Waterlogged Lab Coat
+// set item tint RGB : 11049612
+// set item tint RGB 2 : 8626083
+
+
+Warpaints:
+
+200 Bloom Buffed
+201 Quack Canvased
+202 Bank Rolled
+203 Merc Stained
+204 Kill Covered
+205 Fire Glazed
+206 Pizza Polished
+207 Bonk Varnished
+208 Star Crossed
+209 Clover Camo'd
+210 Freedom Wrapped
+211 Cardboard Boxed
+212 Dream Piped
+213 Miami Element
+214 Neo Tokyo
+215 Geometrical Teams
+216 NOT USED
+217 Bomber Soul
+218 Uranium
+219 NOT USED
+220 Cabin Fevered
+221 Polar Surprise
+222 NOT USED
+223 Hana
+224 Dovetailed
+225 Cosmic Calamity
+226 Hazard Warning
+227 NOT USED
+228 Mosaic
+229 NOT USED
+230 Jazzy
+231 NOT USED
+232 Alien Tech
+233 NOT USED
+234 Damascus Mahogany
+235 Skull Study
+236 Haunted Ghosts
+237 Spectral Shimmered
+238 Spirit of Halloween
+239 Horror Holiday
+240 Totally Boned
+241 Electroshocked
+242 Ghost Town
+243 Tumor Toasted
+244 Calvera Canvas
+245 Snow Covered
+246 Frost Ornamented
+247 Smissmas Village
+248 Igloo
+249 Seriously Snowed
+250 Smissmas Camo
+251 Sleighin Style
+252 Alpine
+253 Gift Wrapped
+254 Winterland
+255 Helldriver
+256 Organ-ically Hellraised
+257 Spectrum Splattered
+258 Candy Coated
+259 Pumpkin Pied
+260 Sweet Toothed
+261 Crawlspace Critters
+262 Portal Plastered
+263 Death Deluxe
+264 Raving Dead
+265 Eyestalker
+266 Spiders Cluster
+267 Gourdy Green
+268 Mummified Mimic
+269 Spider Season
+270 Gingerbread Winner
+271 Saccharine Striped
+272 Elfin Enamel
+273 Peppermint Swirl
+274 NOT USED
+275 Snow Globalization
+276 Gifting Manns Wrapping Paper
+277 Snowflake Swirled
+278 Smissmas Spycrabs
+279 Frozen Aurora
+280 Starlight Serenity
+281 Frosty Delivery
+282 Glacial Glazed
+283 Cookie Fortress
+284 Sarsparilla Sprayed
+285 Swashbuckled
+286 Skull Cracked
+287 Misfortunate
+288 NOT USED
+289 Neon-Ween
+290 Simple Spirits
+291 Broken Bones
+292 Potent Poison
+293 Searing Souls
+294 Party Phantoms
+295 Polter-Guised
+296 Kiln Conquer
+297 Necromanced
+300 Yeti Coated
+301 Park Pigmented
+302 Mannana Peeled
+303 Macaw Masked
+304 Sax Waxed
+305 Anodized
+306 Bamboo Brushed
+307 Tiger Buffed
+308 Croc Dusted
+309 Pina Polished
+310 Leopard Printed
+390 Dragon Slayer (only on some weapons)
+
+    "400"    "Ghoul Blaster"
+    "401"    "Cream Corned"
+    "402"    "Sunriser"
+    "403"    "Sacred Slayer"
+    "404"    "Metalized Soul"
+    "405"    "Bonzo Gnawed"
+    "406"    "Health And Hell"
+    "407"    "Health And Hell (Green)"
+    "408"    "Hypergon"
+    "409"    "Pumpkin Plastered"
+    "410"    "Chilly Autumn"
+	
+
+	Yes.
+
+"411" - Secretly Serviced 
+"412" - Steeled Brushed
+"413" - Sky Stallion
+"414" - Bomb Carrier
+"415" - Business class
+"416" - Deadly Dragon
+"417" - Team Serviced
+"418" - War Room
+"419" - Pacific Peacemaker
+"420" - Mechanized Monster
+
+
+391 Smissmas Sweater
+15000-15158 These are decorated war hero collection weapon ids. Use the weaponid in place of paint id.
+
+
+	0 "Fireball", 
+	1 "Swarm of Bats", 
+	2 "Overheal", 
+	3 "Pumpkin MIRV", 
+	4 "Blast Jump", 
+	5 "Stealth", 
+	6 "Shadow Leap", 
+	7 "Ball O' Lightning", 
+	8 "Power Up", 
+	9 "Meteor Shower", 
+	10 "Summon MONOCULUS", 
+	11 "Skeletons Horde"
+
+
+Normal = 0
+Genuine = 1
+rarity2 = 2 (unused)
+Vintage = 3
+rarity3 = 4 (unused)
+Unusual = 5
+Unique = 6
+Community = 7
+Valve = 8
+Self-Made = 9
+Customized = 10 (unused)
+Strange = 11
+Completed = 12 (unused)
+Haunted = 13
+Collector's = 14
+Decorated Weapon = 15
+
+
+More Warpaints 
+0		"Red Rock Roscoe"
+1		"Sand Cannon"
+2		"Wrapped Reviver"
+3		"Psychedelic Slugger"
+4		"Carpet Bomber"
+5		"Masked Mender"
+6		"Woodland Warrior"
+7		"Purple Range"
+8		"Sudden Flurry"
+9		"Forest Fire"
+10		"King of the Jungle"
+11		"Night Terror"
+12		"Backwoods Boomstick"
+13		"Woodsy Widowmaker"
+14		"Night Owl"
+15		"Tartan Torpedo"
+16		"Rustic Ruiner"
+17		"Barn Burner"
+18		"Homemade Heater"
+19		"Lumber From Down Under"
+20		"Iron Wood"
+21		"Country Crusher"
+22		"Plaid Potshotter"
+23		"Shot in the Dark"
+24		"Blasted Bombardier"
+25		"Reclaimed Reanimator"
+26		"Antique Annihilator"
+27		"Old Country"
+28		"American Pastoral"
+29		"Backcountry Blaster"
+30		"Bovine Blazemaker"
+31		"War Room"
+32		"Treadplate Tormenter"
+33		"Bogtrotter"
+34		"Earth, Sky and Fire"
+35		"Hickory Hole-Puncher"
+36		"Spruce Deuce"
+37		"Team Sprayer"
+38		"Rooftop Wrangler"
+39		"Civil Servant"
+40		"Citizen Pain"
+41		"Local Hero"
+42		"Mayor"
+43		"Smalltown Bringdown"
+44		"Civic Duty"
+45		"Liquid Asset"
+46		"Black Dahlia"
+47		"Lightning Rod"
+48		"Pink Elephant"
+49		"Flash Fryer"
+50		"Spark of Life"
+51		"Dead Reckoner"
+52		"Shell Shocker"
+53		"Current Event"
+54		"Turbine Torcher"
+55		"Brick House"
+56		"Sandstone Special"
+57		"Aqua Marine"
+58		"Low Profile"
+59		"Thunderbolt"
+60		"Autumn"
+61		"Nutcracker"
+62		"Pumpkin Patch"
+63		"Macabre Web"
+64		"Boneyard"
+65		"Wildwood"
+66		"Balloonicorn"
+67		"Rainbow"
+68		"Sweet Dreams"
+69		"Blue Mew"
+70		"Brain Candy"
+71		"Stabbed to Hell"
+72		"Flower Power"
+73		"Mister Cuddles"
+74		"Shot to Hell"
+75		"Torqued to Hell"
+76		"Coffin Nail"
+77		"Top Shelf"
+78		"Dressed to Kill"
+79		"High Roller's"
+80		"Warhawk"
+81		"Blitzkrieg"
+82		"Airwolf"
+83		"Corsair"
+84		"Butcher Bird"
+85		"Killer Bee"
+86		"Red Bear"
+91		"Rainbow"
+92		"Killer Bee"
+93		"Coffin Nail"
+97		"97: wearblend"
+98		"98: dirt/blood/scratches"
+99		"99: ao/dirt/blood/scratches"
+
+100		"100: (Unused) Red Rock Roscoe"
+101		"101: (Unused) Sand Cannon"
+102		"Wrapped Reviver Mk.II"
+103		"103: (Unused) Psychedelic Slugger"
+104		"Carpet Bomber Mk.II"
+105		"Masked Mender Mk.II"
+106		"Woodland Warrior Mk.II"
+107		"107: (Unused) Purple Range"
+108		"108: (Unused) Sudden Flurry"
+109		"Forest Fire Mk.II"
+112		"Backwoods Boomstick Mk.II"
+113		"Woodsy Widowmaker Mk.II"
+114		"Night Owl Mk.II"
+117		"117: (Unused) Barn Burner"
+120		"Iron Wood Mk.II"
+122		"Plaid Potshotter Mk.II"
+130		"Bovine Blazemaker Mk.II"
+139		"Civil Servant Mk.II"
+143		"Smalltown Bringdown Mk.II"
+144		"Civic Duty Mk.II"
+145		"145: (Unused) Liquid Asset"
+148		"148: (Unused) Pink Elephant"
+151		"Dead Reckoner Mk.II"
+160		"Autumn Mk.II"
+161		"Nutcracker Mk.II"
+163		"Macabre Web Mk.II"
+
+200		"Bloom Buffed"
+201		"Quack Canvassed"
+202		"Bank Rolled"
+203		"Merc Stained"
+204		"Kill Covered"
+205		"Fire Glazed"
+206		"Pizza Polished"
+207		"Bonk Varnished"
+208		"Star Crossed"
+209		"Clover Camo'd"
+210		"Freedom Wrapped"
+211		"Cardboard Boxed"
+212		"Dream Piped"
+213		"Miami Element"
+214		"Neo Tokyo"
+215		"Geometrical Teams"
+217		"Bomber Soul"
+218		"Uranium"
+220		"Cabin Fevered"
+221		"Polar Surprise"
+223		"Hana"
+224		"Dovetailed"
+225		"Cosmic Calamity"
+226		"Hazard Warning"
+228		"Mosaic"
+230		"Jazzy"
+232		"Alien Tech"
+234		"Damascus & Mahogany"
+235		"Skull Study"
+236		"Haunted Ghosts"
+237		"Spectral Shimmered"
+238		"Spirit of Halloween"
+239		"Horror Holiday"
+240		"Totally Boned"
+241		"Electroshocked"
+242		"Ghost Town"
+243		"Tumor Toasted"
+244		"Calavera Canvas"
+245		"Snow Covered"
+246		"Frost Ornamented"
+247		"Smissmas Village"
+248		"Igloo"
+249		"Seriously Snowed"
+250		"Smissmas Camo"
+251		"Sleighin' Style"
+252		"Alpine"
+253		"Gift Wrapped"
+254		"Winterland Wrapped"
+
+300		"Yeti Coated"
+301		"Park Pigmented"
+302		"Mannana Peeled"
+303		"Macaw Masked"
+304		"Sax Waxed"
+305		"Anodized Aloha"
+306		"Bamboo Brushed"
+307		"Tiger Buffed"
+308		"Croc Dusted"
+309		"PiÃ±a Polished"
+310		"Leopard Printed"
+
+390		"Dragon Slayer"
+391		"Smissmas Sweater"

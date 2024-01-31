@@ -1,0 +1,20 @@
+Swipes: 30 062
+
+Right Swipes: 3 645
+Left Swipes: 26 417
+
+Matches: 2 434
+No Match: 1 211
+
+Messaging: 1 187
+No Messaging: 1 247
+
+One Message: 734
+Longer convos: 453
+
+Never meeting up: 448
+
+Dates: 5
+One Date: 3
+Multiple Dates: 1
+Long Term Dating: 1

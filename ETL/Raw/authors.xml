@@ -1,0 +1,86 @@
+<authors>
+    <author>
+        <name>John Doe</name>
+        <books>
+            <book_isbn>1000000001</book_isbn>
+            <book_isbn>1000000014</book_isbn>
+            <book_isbn>1000000027</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Jane Smith</name>
+        <books>
+            <book_isbn>1000000002</book_isbn>
+            <book_isbn>1000000015</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Emily Johnson</name>
+        <books>
+            <book_isbn>1000000003</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Michael Brown</name>
+        <books>
+            <book_isbn>1000000004</book_isbn>
+            <book_isbn>1000000016</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Sarah Davis</name>
+        <books>
+            <book_isbn>1000000005</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>William Miller</name>
+        <books>
+            <book_isbn>1000000006</book_isbn>
+            <book_isbn>1000000017</book_isbn>
+            <book_isbn>1000000028</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Elizabeth Wilson</name>
+        <books>
+            <book_isbn>1000000007</book_isbn>
+            <book_isbn>1000000018</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>David Moore</name>
+        <books>
+            <book_isbn>1000000008</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Jennifer Taylor</name>
+        <books>
+            <book_isbn>1000000009</book_isbn>
+            <book_isbn>1000000019</book_isbn>
+            <book_isbn>1000000029</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Richard Anderson</name>
+        <books>
+            <book_isbn>1000000010</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Patricia Jackson</name>
+        <books>
+            <book_isbn>1000000011</book_isbn>
+            <book_isbn>1000000020</book_isbn>
+        </books>
+    </author>
+    <author>
+        <name>Christopher Harris</name>
+        <books>
+            <book_isbn>1000000012</book_isbn>
+            <book_isbn>1000000021</book_isbn>
+            <book_isbn>1000000030</book_isbn>
+        </books>
+    </author>
+</authors>

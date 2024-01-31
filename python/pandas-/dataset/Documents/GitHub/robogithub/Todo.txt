@@ -1,0 +1,38 @@
+TODO:
+  Todo:
+  Priority:
+  1. Fix so spawn sounds don't trigger unless the player is alove, as now they play when selected when dead
+  2. Using Item loadout preset binds now counts as a death, resetting your paid robot to an unpaid robot.
+
+Bugs:
+Paid menu sometimes lets you reslect robot
+
+Become a HUuman Robot:
+1. Use a paid robot
+2. Have the menu open
+3. Volunteer and select the robot
+
+Paid Robot Bug:
+- Paid menu sometimes doesn't close or white out the selected robot, allowing you to turn back to human
+
+If you mash boss menu button you revert back to human
+
+Sometimes a player who is a robot, but disconnects gets autobalanced to the other team
+
+Somteimes, selecting a robot doesn't close the menu, and allows you to select the same robot again (happens with paid robots)
+
+
+unify sounds
+ OnMapStart precaches
+extract robot_factory / robot_assembly
+  unify 
+   setting attributes etc.
+storage:
+ - turn target into targetlist in storage plugin? ... maybe? 
+   needed in command too so it would be duplicate code
+     unless command gets setup in main-plugin too?
+
+codestyles
+ .editorconfig
+  tab vs spaces
+

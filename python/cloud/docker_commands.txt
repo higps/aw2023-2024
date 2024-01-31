@@ -1,0 +1,14 @@
+
+build
+docker build -t warmup.py .
+
+tag
+docker tag warmup.py:latest dea23.azurecr.io/mariusd/warmup.py:v1
+
+push
+docker push dea23.azurecr.io/mariusd/warmup.py:v1
+
+pull
+docker pull dea23.azurecr.io/dennis/reptest:v1
+
+az acr login --name dea23.azurecr.io

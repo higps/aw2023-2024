@@ -1,0 +1,3 @@
+DDL - Create
+DML - Selve tabellen
+DQL - Lese fra tabellen
